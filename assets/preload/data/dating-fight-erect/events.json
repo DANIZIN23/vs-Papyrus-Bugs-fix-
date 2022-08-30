@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "forest3",
+		"player1": "CoolBf",
+		"player2": "cooldude",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeOPPT",
+						"papyrus",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-sans",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "dating fight erect"
+	}
+}
