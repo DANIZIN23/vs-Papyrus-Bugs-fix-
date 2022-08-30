@@ -1,44 +1,44 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				37,
-				11
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "BF dead soul Dead",
-			"indices": []
-		},
-		{
 			"loop": true,
 			"offsets": [
-				36,
-				32
+				461,
+				22
 			],
 			"anim": "deathLoop",
 			"fps": 24,
-			"name": "BF dead soul loop",
+			"name": "PAPS LOSES loop",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				33,
-				157
+				460,
+				112
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "PAPS LOSES?",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				461,
+				-146
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BF dead soul confirm",
+			"name": "PAPS LOSES confirm",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf heart",
+	"image": "characters/Bf Paps",
 	"position": [
-		10,
-		160
+		-30,
+		0
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -48,10 +48,10 @@
 		209
 	],
 	"camera_position": [
-		90,
-		-10
+		0,
+		-40
 	],
 	"sing_duration": 4,
-	"noteskin": null,
+	"noteskin": "",
 	"scale": 1
 }

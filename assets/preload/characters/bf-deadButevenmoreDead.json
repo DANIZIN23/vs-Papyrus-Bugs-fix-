@@ -8,37 +8,37 @@
 			],
 			"anim": "firstDeath",
 			"fps": 24,
-			"name": "BF dead soul Dead",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				36,
-				32
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF dead soul loop",
+			"name": "ded bf death",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				33,
-				157
+				37,
+				11
 			],
 			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "BF dead soul confirm",
+			"name": "ded bf ded confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "ded bf ded loop",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf heart",
+	"image": "characters/Dedbf",
 	"position": [
-		10,
-		160
+		50,
+		520
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -48,8 +48,8 @@
 		209
 	],
 	"camera_position": [
-		90,
-		-10
+		0,
+		0
 	],
 	"sing_duration": 4,
 	"noteskin": null,
