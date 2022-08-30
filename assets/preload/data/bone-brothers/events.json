@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "forest3",
+		"player1": "bf",
+		"player2": "papTwo",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeOPPT",
+						"papyrus",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Flip Screen",
+						"up",
+						""
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Both Sing",
+						"true",
+						""
+					],
+					[
+						"Flip Screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Both Sing",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63720,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SansWhite"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-white"
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Flip Screen",
+						"up",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Flip Screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Both Sing",
+						"true",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"papTwo"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Both Sing",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-sans",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "bone brothers"
+	}
+}
