@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": "forest1",
+		"player1": "bf",
+		"player2": "papyrus",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeOPPT",
+						"papyrus",
+						""
+					]
+				]
+			],
+			[
+				15762.7118644068,
+				[
+					[
+						"Play Animation",
+						"micFlip",
+						"dad"
+					]
+				]
+			],
+			[
+				89067.7966101695,
+				[
+					[
+						"Play Animation",
+						"greatness",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-sans",
+		"bpm": 118,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "bad to the bone"
+	}
+}
