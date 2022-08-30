@@ -1,0 +1,50 @@
+{
+	"storyName": "The great papyrus!!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Paps",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Final boss",
+			"boss",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"To the bone",
+			"papsTwo",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"Him",
+			"PaPatas",
+			[
+				46,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"Paps",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week Nyeh!"
+}

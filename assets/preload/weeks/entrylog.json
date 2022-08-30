@@ -11,15 +11,15 @@
 	],
 	"songs": [
 		[
-			"Tutorial",
-			"gf",
+			"Entry Log",
+			"gaster",
 			[
-				165,
 				0,
-				77
+				0,
+				0
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"weekName": "Tutorial"
 }
