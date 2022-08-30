@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.3,
+		"stage": "forest3",
+		"player1": "bf",
+		"player2": "papyrus",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeOPPT",
+						"papyrus",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-sans",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Dating Fight"
+	}
+}
